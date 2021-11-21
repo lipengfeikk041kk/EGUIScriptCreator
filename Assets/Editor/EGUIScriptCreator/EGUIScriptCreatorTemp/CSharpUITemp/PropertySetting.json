@@ -1,0 +1,6 @@
+﻿{
+  "propertyDefineTemp": "public [propertyComp] [propertyName];",
+  "propertyFindTemp": "[propertyName] = transform.Find(\"[gameObjectPath]\").GetComponent<[propertyComp]>();",
+  "propertyGameObjectFindTemp": "[propertyName] = transform.Find(\"[gameObjectPath]\").gameObject;",
+  "propertyTransformFindTemp": "[propertyName] = transform.Find(\"[gameObjectPath]\");"
+}

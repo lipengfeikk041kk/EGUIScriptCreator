@@ -1,0 +1,21 @@
+savePath:Script\CSharpUI\[modelName]\[gameObjectName].cs
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.EventSystems;
+using UnityEngine.UI;
+
+public class [gameObjectName] : MonoBehaviour
+{
+    [propertyDefine]
+
+    private void Awake()
+    {
+        [propertyFind]
+
+        [eventAdd]
+    }
+    
+    [eventFunction]
+}

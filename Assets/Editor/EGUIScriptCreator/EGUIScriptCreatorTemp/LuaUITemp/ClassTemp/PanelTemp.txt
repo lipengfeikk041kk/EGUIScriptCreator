@@ -1,0 +1,8 @@
+savePath:Script\LuaUI\[modelName]\[gameObjectName]Panel.lua
+local this = {}
+
+this.Awake = function(gameObject) 
+    [propertyFind]
+end
+
+return this

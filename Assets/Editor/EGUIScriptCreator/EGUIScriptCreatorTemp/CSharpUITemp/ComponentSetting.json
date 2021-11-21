@@ -1,0 +1,77 @@
+﻿[
+  {
+    "componentName": "Button",
+    "fullComponentName": "UnityEngine.UI.Button",
+    "sort": 1
+  },
+  {
+    "componentName": "InputField",
+    "fullComponentName": "UnityEngine.UI.InputField",
+    "sort": 2
+  },
+  {
+    "componentName": "Dropdown",
+    "fullComponentName": "UnityEngine.UI.Dropdown",
+    "sort": 3
+  },
+  {
+    "componentName": "Slider",
+    "fullComponentName": "UnityEngine.UI.Slider",
+    "sort": 4
+  },
+  {
+    "componentName": "ScrollRect",
+    "fullComponentName": "UnityEngine.UI.ScrollRect",
+    "sort": 5
+  },
+  {
+    "componentName": "Scrollbar",
+    "fullComponentName": "UnityEngine.UI.Scrollbar",
+    "sort": 6
+  },
+  {
+    "componentName": "Toggle",
+    "fullComponentName": "UnityEngine.UI.Toggle",
+    "sort": 7
+  },
+  {
+    "componentName": "Image",
+    "fullComponentName": "UnityEngine.UI.Image",
+    "sort": 8
+  },
+  {
+    "componentName": "RawImage",
+    "fullComponentName": "UnityEngine.UI.RawImage",
+    "sort": 9
+  },
+  {
+    "componentName": "Text",
+    "fullComponentName": "UnityEngine.UI.Text",
+    "sort": 10
+  },
+  {
+    "componentName": "ToggleGroup",
+    "fullComponentName": "UnityEngine.UI.ToggleGroup",
+    "sort": 11
+  },
+  {
+    "componentName": "RectTransform",
+    "fullComponentName": "UnityEngine.RectTransform",
+    "sort": 12
+  },
+  {
+    "componentName": "Transform",
+    "fullComponentName": "UnityEngine.Transform",
+    "sort": 13
+  },
+  {
+    "componentName": "GameObject",
+    "fullComponentName": "UnityEngine.GameObject",
+    "sort": 14
+  },
+  {
+    "componentName": "CanvasRenderer",
+    "fullComponentName": "UnityEngine.UI.CanvasRenderer",
+    "sort": 15
+  }
+]

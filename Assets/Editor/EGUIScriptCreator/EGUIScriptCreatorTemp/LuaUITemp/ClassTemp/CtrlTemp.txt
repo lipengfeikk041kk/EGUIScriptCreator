@@ -1,0 +1,28 @@
+savePath:Script\LuaUI\[modelName]\[gameObjectName]Ctrl.lua
+local this = {}
+this.uiType = "normal"
+this.assetModel = "[modelName]"
+this.assetName = "[gameObjectName]"
+local panel = require("[gameObjectName]Panel")
+
+this.Awake = function(gameObject)
+    panel.Awake(gameObject)
+    
+    [eventAdd]
+end
+
+this.OnShowPage = function()
+    
+end
+
+this.OnClose = function()
+    
+end
+
+this.OnDispose = function()
+    
+end
+
+[eventFunction]
+
+return this

@@ -1,0 +1,57 @@
+﻿[
+  {
+    "eventName": "onClickDown",
+    "eventAddTemp": "UIEventListener.Get(panel.[propertyName].gameObject).[eventName] = function(go, eventData)\n    this.[PropertyName][EventName](go, eventData)\nend",
+    "eventFunctionTemp": "this.[PropertyName][EventName] = function(go, eventData)\n    \nend"
+  },
+  {
+    "eventName": "onClickUp",
+    "eventAddTemp": "UIEventListener.Get(panel.[propertyName].gameObject).[eventName] = function(go, eventData)\n    this.[PropertyName][EventName](go, eventData)\nend",
+    "eventFunctionTemp": "this.[PropertyName][EventName] = function(go, eventData)\n    \nend"
+  },
+  {
+    "eventName": "onClick",
+    "eventAddTemp": "UIEventListener.Get(panel.[propertyName].gameObject).[eventName] = function(go, eventData)\n    this.[PropertyName][EventName](go, eventData)\nend",
+    "eventFunctionTemp": "this.[PropertyName][EventName] = function(go, eventData)\n    \nend"
+  },
+  {
+    "eventName": "onEnter",
+    "eventAddTemp": "UIEventListener.Get(panel.[propertyName].gameObject).[eventName] = function(go)\n    this.[PropertyName][EventName](go)\nend",
+    "eventFunctionTemp": "this.[PropertyName][EventName] = function(go)\n    \nend"
+  },
+  {
+    "eventName": "onExit",
+    "eventAddTemp": "UIEventListener.Get(panel.[propertyName].gameObject).[eventName] = function(go)\n    this.[PropertyName][EventName](go)\nend",
+    "eventFunctionTemp": "this.[PropertyName][EventName] = function(go)\n    \nend"
+  },
+  {
+    "eventName": "onBeginDrag",
+    "eventAddTemp": "UIEventListener.Get(panel.[propertyName].gameObject).[eventName] = function(go, eventData)\n    this.[PropertyName][EventName](go, eventData)\nend",
+    "eventFunctionTemp": "this.[PropertyName][EventName] = function(go, eventData)\n    \nend"
+  },
+  {
+    "eventName": "onDrag",
+    "eventAddTemp": "UIEventListener.Get(panel.[propertyName].gameObject).[eventName] = function(go, pos, eventData)\n    this.[PropertyName][EventName](go, pos, eventData)\nend",
+    "eventFunctionTemp": "this.[PropertyName][EventName] = function(go, pos, eventData)\n    \nend"
+  },
+  {
+    "eventName": "onEndDrag",
+    "eventAddTemp": "UIEventListener.Get(panel.[propertyName].gameObject).[eventName] = function(go, eventData)\n    this.[PropertyName][EventName](go, eventData)\nend",
+    "eventFunctionTemp": "this.[PropertyName][EventName] = function(go, eventData)\n    \nend"
+  },
+  {
+    "eventName": "onDrop",
+    "eventAddTemp": "UIEventListener.Get(panel.[propertyName].gameObject).[eventName] = function(go, eventData)\n    this.[PropertyName][EventName](go, eventData)\nend",
+    "eventFunctionTemp": "this.[PropertyName][EventName] = function(go, eventData)\n    \nend"
+  },
+  {
+    "eventName": "onScroll",
+    "eventAddTemp": "UIEventListener.Get(panel.[propertyName].gameObject).[eventName] = function(go)\n    this.[PropertyName][EventName](go)\nend",
+    "eventFunctionTemp": "this.[PropertyName][EventName] = function(go)\n    \nend"
+  },
+  {
+    "eventName": "onMove",
+    "eventAddTemp": "UIEventListener.Get(panel.[propertyName].gameObject).[eventName] = function(go, eventData)\n    this.[PropertyName][EventName](go, eventData)\nend",
+    "eventFunctionTemp": "this.[PropertyName][EventName] = function(go, eventData)\n    \nend"
+  }
+]

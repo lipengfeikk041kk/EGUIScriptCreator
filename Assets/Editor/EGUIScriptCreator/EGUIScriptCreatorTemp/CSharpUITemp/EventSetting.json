@@ -1,0 +1,42 @@
+﻿[
+  {
+    "eventName": "PointerClick",
+    "eventAddTemp": "[propertyName].AddListener(EventTriggerType.[eventName], [PropertyName]On[EventName]);",
+    "eventFunctionTemp": "private void [PropertyName]On[EventName](BaseEventData eventData)\n{\n        \n}"
+  },
+  {
+    "eventName": "PointerDown",
+    "eventAddTemp": "[propertyName].AddListener(EventTriggerType.[eventName], [PropertyName]On[EventName]);",
+    "eventFunctionTemp": "private void [PropertyName]On[EventName](BaseEventData eventData)\n{\n        \n}"
+  },
+  {
+    "eventName": "PointerUp",
+    "eventAddTemp": "[propertyName].AddListener(EventTriggerType.[eventName], [PropertyName]On[EventName]);",
+    "eventFunctionTemp": "private void [PropertyName]On[EventName](BaseEventData eventData)\n{\n        \n}"
+  },
+  {
+    "eventName": "PointerEnter",
+    "eventAddTemp": "[propertyName].AddListener(EventTriggerType.[eventName], [PropertyName]On[EventName]);",
+    "eventFunctionTemp": "private void [PropertyName]On[EventName](BaseEventData eventData)\n{\n        \n}"
+  },
+  {
+    "eventName": "PointerExit",
+    "eventAddTemp": "[propertyName].AddListener(EventTriggerType.[eventName], [PropertyName]On[EventName]);",
+    "eventFunctionTemp": "private void [PropertyName]On[EventName](BaseEventData eventData)\n{\n        \n}"
+  },
+  {
+    "eventName": "BeginDrag",
+    "eventAddTemp": "[propertyName].AddListener(EventTriggerType.[eventName], [PropertyName]On[EventName]);",
+    "eventFunctionTemp": "private void [PropertyName]On[EventName](BaseEventData eventData)\n{\n        \n}"
+  },
+  {
+    "eventName": "Drag",
+    "eventAddTemp": "[propertyName].AddListener(EventTriggerType.[eventName], [PropertyName]On[EventName]);",
+    "eventFunctionTemp": "private void [PropertyName]On[EventName](BaseEventData eventData)\n{\n        \n}"
+  },
+  {
+    "eventName": "EndDrag",
+    "eventAddTemp": "[propertyName].AddListener(EventTriggerType.[eventName], [PropertyName]On[EventName]);",
+    "eventFunctionTemp": "private void [PropertyName]On[EventName](BaseEventData eventData)\n{\n        \n}"
+  }
+]
