@@ -1,6 +1,5 @@
 # EGUIScriptCreator
-一个Unity的UI脚本生成插件  
-           
+一个Unity的UI脚本生成插件             
 
 ## 模板结构介绍
 
@@ -62,5 +61,11 @@ PropertySetting.json比较好理解了，看下面的关键字说明部分吧。
 当模板改变后，需要手动点击LoadConfig按钮
 
 其他就参考示例吧。
+
+![](Assets/Editor/EGUIScriptCreator/Pic/1.png)
+![](Assets/Editor/EGUIScriptCreator/Pic/2.png)
+![](Assets/Editor/EGUIScriptCreator/Pic/3.png)
+![](Assets/Editor/EGUIScriptCreator/Pic/4.png)
+![](Assets/Editor/EGUIScriptCreator/Pic/5.png)
 
 QQ:377693703
