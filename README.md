@@ -62,10 +62,6 @@ PropertySetting.json比较好理解了，看下面的关键字说明部分吧。
 
 其他就参考示例吧。
 
-![](Assets/Editor/EGUIScriptCreator/Pic/1.png)
-![](Assets/Editor/EGUIScriptCreator/Pic/2.png)
-![](Assets/Editor/EGUIScriptCreator/Pic/3.png)
-![](Assets/Editor/EGUIScriptCreator/Pic/4.png)
-![](Assets/Editor/EGUIScriptCreator/Pic/5.png)
+![](1.png)
 
 QQ:377693703
